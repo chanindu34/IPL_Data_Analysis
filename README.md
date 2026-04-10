@@ -1,5 +1,12 @@
 # IPL Historical Data Analysis (2008-2020)
 
+### 📊 Enterprise Business Intelligence Deployment
+**Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/chanindu.dahanayake/viz/IPLEnterpriseFranchiseAssetPerformance/Dashboard1?publish=yes)
+
+[![IPL Analytics Dashboard](tableau_dashboard.png)](https://public.tableau.com/app/profile/chanindu.dahanayake/viz/IPLEnterpriseFranchiseAssetPerformance/Dashboard1?publish=yes)
+
+*This dashboard was engineered to track high-leverage franchise metrics, including Geographic Dominance (Heatmaps), Toss ROI (Stacked Proportions), Alpha Striker Efficiency (Scatter Plot), and a customized Death Over Pressure Index filtering for Overs 16-20.*
+
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
 
 ## Objective
